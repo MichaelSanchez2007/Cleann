@@ -58,8 +58,8 @@
 		width: 100vw;
 		max-height: 100vh;
 		margin: 0;
-		background-image: url('CN.jpg');
-		background-image: url('Large.jpg');
+		background-image: url('/CN.jpg');
+		background-image: url('/Large.jpg');
 		background-repeat: no-repeat;
 		background-size: cover;
 		z-index: -1;
