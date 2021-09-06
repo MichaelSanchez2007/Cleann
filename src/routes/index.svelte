@@ -58,14 +58,14 @@
 		width: 100vw;
 		max-height: 100vh;
 		margin: 0;
-		background-image: url('/CN.jpg');
+		background-image: url('/Large.jpg');
 		background-repeat: no-repeat;
 		background-size: cover;
 		z-index: -1;
 	}
 	@media only screen and (min-width: 1250px) {
 		.background {
-			background-image: url('Medium.jpg');
+			background-image: url('Large.jpg');
 			background-position: 50% 60%;
 		}
 	}
